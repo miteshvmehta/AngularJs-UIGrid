@@ -1,0 +1,9 @@
+.grid {
+  width: 500px;
+  height: 250px;
+}
+
+.txtChange { 
+	color: red; 
+	background-color: green
+}
